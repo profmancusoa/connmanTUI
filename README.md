@@ -53,4 +53,4 @@ chmod +x connman_tui.py
 
 ## Tested on
 
-Artix Linux (OpenRC), ConnMan 1.x
+Artix Linux (OpenRC), ConnMan 1.45
