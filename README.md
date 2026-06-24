@@ -54,3 +54,7 @@ chmod +x connman_tui.py
 ## Tested on
 
 Artix Linux (OpenRC), ConnMan 1.45
+
+## Development
+
+This project was developed with the assistance of [Claude Code](https://claude.ai/code), Anthropic's AI coding assistant.
